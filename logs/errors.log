@@ -1,0 +1,219 @@
+[2026-01-28 04:28:02] PDOException: SQLSTATE[HY093]: Invalid parameter number
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 87
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#2 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:28:02] Exception: Erreur lors de l'authentification.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 104
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#1 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:28:34] PDOException: SQLSTATE[HY093]: Invalid parameter number
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 87
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#2 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:28:34] Exception: Erreur lors de l'authentification.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 104
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#1 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:29:25] PDOException: SQLSTATE[HY093]: Invalid parameter number
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 87
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#2 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:29:25] Exception: Erreur lors de l'authentification.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 104
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#1 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:34:23] Error: Call to undefined method Database::query()
+File: C:\xampp\htdocs\appWeb\bethelabs\admin\diagnostic.php
+Line: 99
+Stack trace:
+#0 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:36:34] PDOException: SQLSTATE[HY093]: Invalid parameter number
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 87
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#2 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:36:34] Exception: Erreur lors de l'authentification.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 104
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#1 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:37:01] PDOException: SQLSTATE[HY093]: Invalid parameter number
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 87
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#2 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:37:01] Exception: Erreur lors de l'authentification.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 104
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#1 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:37:19] PDOException: SQLSTATE[HY093]: Invalid parameter number
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 87
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#2 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:37:19] Exception: Erreur lors de l'authentification.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 104
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin', 'password')
+#1 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:39:34] PDOException: SQLSTATE[HY093]: Invalid parameter number
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 87
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php(87): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin@bethelabs...', 'password')
+#2 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 04:39:34] Exception: Erreur lors de l'authentification.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\Admin.php
+Line: 104
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php(36): Admin->authenticate('admin@bethelabs...', 'password')
+#1 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(18): AuthController->login()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-28 05:52:59] PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bethelabs_db.partners' doesn't exist
+File: C:\xampp\htdocs\appWeb\bethelabs\models\BaseModel.php
+Line: 41
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\BaseModel.php(41): PDO->prepare('SELECT * FROM p...')
+#1 C:\xampp\htdocs\appWeb\bethelabs\models\Partner.php(50): BaseModel->getAll('created_at DESC', 4)
+#2 C:\xampp\htdocs\appWeb\bethelabs\test_final_validation.php(31): Partner->getRecent(4)
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 03:01:50] Error: Call to protected method Inscription::validate() from global scope
+File: C:\xampp\htdocs\appWeb\bethelabs\process_inscription.php
+Line: 19
+Stack trace:
+#0 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 03:05:01] PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+File: C:\xampp\htdocs\appWeb\bethelabs\models\BaseModel.php
+Line: 99
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\BaseModel.php(99): PDOStatement->execute()
+#1 C:\xampp\htdocs\appWeb\bethelabs\process_testimonial.php(81): BaseModel->create(Array)
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 03:05:01] PDOException: SQLSTATE[HY000] [2006] MySQL server has gone away
+File: C:\xampp\htdocs\appWeb\bethelabs\config\Database.php
+Line: 37
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\config\Database.php(37): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\appWeb\bethelabs\models\BaseModel.php(19): Database->getConnection()
+#2 C:\xampp\htdocs\appWeb\bethelabs\testimonials.php(9): BaseModel->__construct()
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 03:05:01] Exception: Erreur de connexion à la base de données. Veuillez réessayer plus tard.
+File: C:\xampp\htdocs\appWeb\bethelabs\config\Database.php
+Line: 45
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\models\BaseModel.php(19): Database->getConnection()
+#1 C:\xampp\htdocs\appWeb\bethelabs\testimonials.php(9): BaseModel->__construct()
+#2 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 03:05:01] Exception: Impossible de se connecter à la base de données.
+File: C:\xampp\htdocs\appWeb\bethelabs\models\BaseModel.php
+Line: 22
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\testimonials.php(9): BaseModel->__construct()
+#1 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 03:05:38] ErrorException: [Warning] session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\appWeb\bethelabs\includes\header.php on line 3
+File: C:\xampp\htdocs\appWeb\bethelabs\includes\header.php
+Line: 3
+Stack trace:
+#0 [internal function]: ErrorHandler::handleError(2, 'session_start()...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\appWeb\bethelabs\includes\header.php(3): session_start()
+#2 C:\xampp\htdocs\appWeb\bethelabs\testimonials.php(236): include('C:\\xampp\\htdocs...')
+#3 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 04:13:27] Exception: Identifiants incorrects.
+File: C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php
+Line: 38
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(20): AuthController->login()
+#1 {main}
+--------------------------------------------------------------------------------
+
+[2026-01-30 04:18:15] Exception: Identifiants incorrects.
+File: C:\xampp\htdocs\appWeb\bethelabs\controllers\AuthController.php
+Line: 38
+Stack trace:
+#0 C:\xampp\htdocs\appWeb\bethelabs\admin\login.php(20): AuthController->login()
+#1 {main}
+--------------------------------------------------------------------------------
+

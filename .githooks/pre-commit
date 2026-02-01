@@ -1,0 +1,13 @@
+#!/bin/sh
+# .githooks/pre-commit
+# Runs the project PHP linter script. Exit non-zero to block commit.
+
+# Try to run project lint script
+php "$(git rev-parse --show-toplevel)/scripts/php-lint.php"
+status=$?
+if [ $status -ne 0 ]; then
+    echo "\nPre-commit: PHP lint failed. Fix errors before committing.\n"
+    exit $status
+fi
+
+exit 0
