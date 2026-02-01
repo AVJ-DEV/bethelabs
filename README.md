@@ -251,7 +251,7 @@ private static $displayErrors = true;  // false en production
 
 ## 📄 Licence
 
-Projet développé pour BetheLabs.
+Projet développé pour AGBEMATCHI Venceslas Jean-de-Dieu.
 
 ## 🤝 Contribution
 
@@ -259,6 +259,6 @@ Pour toute question ou amélioration, consultez la documentation complète dans 
 
 ---
 
-**Développé avec ❤️ pour BetheLabs**
+**Développé avec AVJ pour BetheLabs**
 
 🚀 **Bon développement!**
